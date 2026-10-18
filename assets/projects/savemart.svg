@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="268" viewBox="0 0 560 268" role="img" aria-labelledby="title desc">
+  <title id="title">Savemart</title>
+  <desc id="desc">A multi-vendor store with an admin dashboard, role-based access for admins, vendors and customers, and multi-language support. Built with Laravel, PHP, MySQL, Blade.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F1830"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="0.75"><stop offset="0" stop-color="#F97316" stop-opacity="0.20"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#F97316"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip"><rect width="560" height="268" rx="16"/></clipPath>
+    <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}</style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="560" height="268" fill="url(#bg)"/>
+    <rect width="560" height="268" fill="url(#glow)"/>
+    <rect width="560" height="3" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="559" height="267" rx="15.5" fill="none" stroke="#1F2A44"/>
+
+  <rect x="32" y="32" width="52" height="52" rx="12" fill="#F97316" fill-opacity="0.16" stroke="#F97316" stroke-opacity="0.55"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="45" y="54" width="26" height="20" rx="3"/><path d="M51.5 54v-3a6.5 6.5 0 0 1 13 0v3"/></g>
+
+  <text x="102" y="58" class="sans" font-size="27" font-weight="700" fill="#F0F6FC">Savemart</text>
+  <text x="103" y="81" class="mono" font-size="13.5" letter-spacing="1.4" fill="#FDBA74">MULTI-VENDOR E-COMMERCE</text>
+  <g fill="none" stroke="#6B7A90" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M514 48l14-14M516 34h12v12"/></g>
+
+  <text x="32" y="130" class="sans" font-size="18.5" fill="#9FB0C8">A multi-vendor store with an admin dashboard,</text>
+  <text x="32" y="156" class="sans" font-size="18.5" fill="#9FB0C8">role-based access for admins, vendors and customers,</text>
+  <text x="32" y="182" class="sans" font-size="18.5" fill="#9FB0C8">and multi-language support.</text>
+
+  <g><rect x="32" y="208" width="87" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="75.5" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">Laravel</text></g>
+    <g><rect x="127" y="208" width="53" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="153.5" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">PHP</text></g>
+    <g><rect x="188" y="208" width="70" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="223" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">MySQL</text></g>
+    <g><rect x="266" y="208" width="70" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="301" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">Blade</text></g>
+</svg>
