@@ -119,8 +119,7 @@ I specialise in **React and TypeScript** on the front end and work across **ASP.
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAllam-start&layout=compact&langs_count=8&exclude_repo=ecommerce,ecommerce-app,MVC&bg_color=0B1220&title_color=F0F6FC&text_color=9FB0C8&border_color=1F2A44&border_radius=16&disable_animations=true" alt="Most used languages" />
-  <img height="180" src="https://streak-stats.demolab.com?user=MostafaAllam-start&background=0B1220&border=1F2A44&stroke=1F2A44&ring=3B82F6&fire=8B5CF6&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=93C5FD&sideLabels=9FB0C8&dates=6B7A90&border_radius=16&disable_animations=true" alt="Contribution streak" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAllam-start&layout=compact&langs_count=8&exclude_repo=ecommerce,ecommerce-app,MVC&bg_color=0B1220&title_color=F0F6FC&text_color=9FB0C8&border_color=1F2A44&border_radius=16&disable_animations=true" alt="Most used languages" />
 </p>
 
 ## Get in Touch
