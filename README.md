@@ -105,7 +105,7 @@ I specialise in **React and TypeScript** on the front end and work across **ASP.
 
 <p align="center">
   <a href="https://github.com/MostafaAllam-start/bpm"><img src="assets/projects/bpm.svg" width="49%" alt="BPM Studio: a visual BPMN process modeler with a drag-and-drop form builder. React 19, TypeScript, React Flow, Zustand, Tailwind 4." /></a>
-  <a href="https://github.com/MostafaAllam-start/ticketing-support"><img src="assets/projects/ticketing.svg" width="49%" alt="Ticketing Support: a real-time support-ticket platform. Next.js 16, Prisma, PostgreSQL, Socket.IO, Docker." /></a>
+  <a href="https://github.com/MostafaAllam-start/support-portal"><img src="assets/projects/ticketing.svg" width="49%" alt="Support Portal: a real-time support-ticket platform. Next.js 16, Prisma, PostgreSQL, Socket.IO, Docker." /></a>
 </p>
 <p align="center">
   <a href="https://github.com/MostafaAllam-start/GameHub"><img src="assets/projects/gamehub.svg" width="49%" alt="GameHub: game discovery on the RAWG API. React 19, TypeScript, Chakra UI, TanStack Query, Zustand." /></a>
