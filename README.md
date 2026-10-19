@@ -34,6 +34,7 @@ I specialise in **React and TypeScript** on the front end and work across **ASP.
         <li>Laravel and PHP applications</li>
         <li>Django and Django REST Framework</li>
         <li>PostgreSQL, MySQL and Redis</li>
+        <li>Message queues with RabbitMQ</li>
       </ul>
     </td>
   </tr>
@@ -77,7 +78,7 @@ I specialise in **React and TypeScript** on the front end and work across **ASP.
   </tr>
   <tr>
     <td align="center"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=10" alt="PostgreSQL, MySQL, Redis" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&perline=10" alt="PostgreSQL, MySQL, Redis, RabbitMQ" /></td>
   </tr>
   <tr>
     <td align="center"><b>DevOps</b></td>
