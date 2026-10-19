@@ -115,6 +115,9 @@ I specialise in **React and TypeScript** on the front end and work across **ASP.
   <a href="https://github.com/MostafaAllam-start/storefront"><img src="assets/projects/storefront.svg" width="49%" alt="Storefront API: an e-commerce REST backend. Django, DRF, Celery, Redis, MySQL." /></a>
   <a href="https://github.com/MostafaAllam-start/MVC"><img src="assets/projects/mvc.svg" width="49%" alt="PHP MVC Framework: a lightweight MVC framework written from scratch. PHP, OOP, MVC." /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/AgriWiseGP"><img src="assets/projects/agriwise.svg" width="49%" alt="AgriWise: an AI platform for farmers, a team graduation project where I co-built the API. Django, DRF, TensorFlow, PostgreSQL, Docker." /></a>
+</p>
 
 ## GitHub Analytics
 

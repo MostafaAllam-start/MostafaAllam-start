@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="268" viewBox="0 0 560 268" role="img" aria-labelledby="title desc">
+  <title id="title">AgriWise</title>
+  <desc id="desc">An AI platform for farmers with plant disease detection, crop and fertilizer recommendation, and soil analysis, served over a Django REST API. A team graduation project. Built with Django, DRF, TensorFlow, PostgreSQL, Docker.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F1830"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="0.75"><stop offset="0" stop-color="#84CC16" stop-opacity="0.20"/><stop offset="1" stop-color="#84CC16" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#84CC16"/><stop offset="1" stop-color="#84CC16" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip"><rect width="560" height="268" rx="16"/></clipPath>
+    <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}</style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="560" height="268" fill="url(#bg)"/>
+    <rect width="560" height="268" fill="url(#glow)"/>
+    <rect width="560" height="3" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="559" height="267" rx="15.5" fill="none" stroke="#1F2A44"/>
+
+  <rect x="32" y="32" width="52" height="52" rx="12" fill="#84CC16" fill-opacity="0.16" stroke="#84CC16" stroke-opacity="0.55"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M57 71V56M57 58c0-7 5-12 13-12 0 8-5 12-13 12zM57 62c0-6-4-10-11-10 0 7 4 10 11 10zM46 71h22"/></g>
+
+  <text x="102" y="58" class="sans" font-size="27" font-weight="700" fill="#F0F6FC">AgriWise</text>
+  <text x="103" y="81" class="mono" font-size="13.5" letter-spacing="1.4" fill="#BEF264">AI FOR AGRICULTURE</text>
+  <g fill="none" stroke="#6B7A90" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M514 48l14-14M516 34h12v12"/></g>
+
+  <text x="32" y="130" class="sans" font-size="18.5" fill="#9FB0C8">An AI platform for farmers: plant disease detection,</text>
+  <text x="32" y="156" class="sans" font-size="18.5" fill="#9FB0C8">crop and fertilizer recommendation, soil analysis.</text>
+  <text x="32" y="182" class="sans" font-size="18.5" fill="#9FB0C8">Team graduation project; I co-built the Django API.</text>
+
+  <g><rect x="32" y="208" width="78" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="71" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">Django</text></g>
+    <g><rect x="118" y="208" width="53" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="144.5" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">DRF</text></g>
+    <g><rect x="179" y="208" width="112" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="235" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">TensorFlow</text></g>
+    <g><rect x="299" y="208" width="112" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="355" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">PostgreSQL</text></g>
+    <g><rect x="419" y="208" width="78" height="32" rx="16" fill="#111A2E" stroke="#22304D"/><text x="458" y="229" text-anchor="middle" class="mono" font-size="14" fill="#C9D1D9">Docker</text></g>
+</svg>
