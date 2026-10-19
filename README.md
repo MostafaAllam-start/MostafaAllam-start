@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Mostafa Allam, Full-Stack Software Engineer at CTC MENA, Alexandria, Egypt" />
+  <img src="assets/banner.svg" width="100%" alt="Mostafa Allam, Full-Stack Software Engineer, Alexandria, Egypt" />
 </p>
 
 <p align="center">
