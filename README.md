@@ -54,6 +54,7 @@ I specialise in **React and TypeScript** on the front end and work across **ASP.
         <li>Unit and integration testing with Vitest</li>
         <li>Containerised environments with Docker</li>
         <li>Git workflows and code review</li>
+        <li>CI/CD pipelines with GitHub Actions, Jenkins and Nexus Repository</li>
       </ul>
     </td>
   </tr>
@@ -77,6 +78,10 @@ I specialise in **React and TypeScript** on the front end and work across **ASP.
   <tr>
     <td align="center"><b>Data</b></td>
     <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=10" alt="PostgreSQL, MySQL, Redis" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=githubactions,jenkins&perline=10" alt="GitHub Actions, Jenkins" /><img src="assets/icons/nexus.svg" alt="Nexus Repository" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tooling</b></td>
